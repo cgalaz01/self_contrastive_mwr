@@ -1,4 +1,4 @@
-# Multi-Tiered Self-Contrastive Learning for Medical Microwave Radiometry (MWR) Breast Cancer Detection
+# Breast Cancer Detection via Multi-Tiered Self-Contrastive Learning in Microwave Radiometric Imaging
 
 ## Setup
 To set up the project, follow these steps:
@@ -52,6 +52,21 @@ Contributions are welcome! Here's how you can contribute to the project:
 3. Make your changes and commit them: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a pull request.
+
+## Citation
+If you found this code useful for your project please cite as:
+```
+@article{galazis2025breast,
+  title={Breast Cancer Detection via Multi-Tiered Self-Contrastive Learning in Microwave Radiometric Imaging},
+  author={Galazis, Christoforos and Wu, Huiyi and Goryanin, Igor},
+  journal={Diagnostics},
+  volume={15},
+  number={5},
+  pages={549},
+  year={2025},
+  publisher={MDPI}
+}
+```
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
