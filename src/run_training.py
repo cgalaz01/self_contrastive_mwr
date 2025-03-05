@@ -19,7 +19,7 @@ from models import (base_model, global_model, regional_model, local_model,
                     joint_model)
 from models.custom_layers import Identity
 from losses.contrastive_losses import contrastive_loss, npairs_loss
-from analysis import classification, model_analysis
+from analysis import classification
 
 
 
